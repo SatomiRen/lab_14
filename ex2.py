@@ -3,7 +3,7 @@
 
 
 def add_four(a):
-    x = 2
+    x = 4
 
     def add_some():
         print("x = " + str(x))
